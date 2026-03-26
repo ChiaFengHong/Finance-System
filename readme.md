@@ -85,3 +85,9 @@ dotnet test
 * 修改資料庫連線字串：Finance.API/Program.cs
 * Migration 只需在 Infrastructure 專案執行
 * 本專案適合個人家庭收支管理，也可擴充小型商店收支系統
+
+## 🚀 開發進度
+
+- ✅ STEP1：專案架構建立
+- ✅ STEP2：資料庫 + EF Core + API 測試完成
+- 🔄 STEP3：Repository + Service（進行中）
